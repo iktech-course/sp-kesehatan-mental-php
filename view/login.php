@@ -181,7 +181,7 @@
                     if(data == 'success'){
                         window.location.replace("../index.php");
                     }else if(data == 'successA'){
-                        window.location.replace("../admin/penyakit.php");
+                        window.location.replace("../admin/index.php?page=beranda");
                     } else {
                         let alert = `<div class="alert alert-danger" role="alert" > Gagal login, masukan email dan password yang benar
                     
