@@ -78,6 +78,9 @@
                     else {
                         include('page/beranda.php');  
                     }
+                    // Todo
+                    // Ndok, tugasmu udah bener nih
+                    // Nanti kita melangkah ke step berikutnya
                 }
                 ?>
                 
