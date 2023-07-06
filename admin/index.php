@@ -75,12 +75,21 @@
                     else if($_GET['page'] =='user-add') {
                         include('page/user-add.php');
                     }
+                    else if($_GET['page'] =='gejala-edit') {
+                        include('page/gejala-edit.php');
+                    }
+                    else if($_GET['page'] =='penyakit-edit') {
+                        include('page/penyakit-edit.php');
+                    }
+                    else if($_GET['page'] =='rule-edit') {
+                        include('page/rule-edit.php');
+                    }
+                    else if($_GET['page'] =='user-edit') {
+                        include('page/user-edit.php');
+                    }
                     else {
                         include('page/beranda.php');  
                     }
-                    // Todo
-                    // Ndok, tugasmu udah bener nih
-                    // Nanti kita melangkah ke step berikutnya
                 }
                 ?>
                 

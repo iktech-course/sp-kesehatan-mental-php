@@ -33,7 +33,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="index.php?page=penyakit-list">
                     <i class="fa fa-book"></i>
-                    <span>Solusi</span></a>
+                    <span>Penyakit</span></a>
             </li>            
 
             <!-- Nav Item - Dashboard -->
